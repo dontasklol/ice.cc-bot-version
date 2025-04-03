@@ -1,0 +1,1 @@
+# ice.cc-bot-version
